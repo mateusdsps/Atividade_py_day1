@@ -3,7 +3,7 @@ nome_produto = "Cadeira Infantil"
 preco_unitario = 12.40
 quantidade = 3
 
-# Calculando o preço total
+
 preco_total = preco_unitario * quantidade
 
 # Exibindo o relatório da compra

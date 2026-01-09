@@ -1,9 +1,10 @@
-# Definindo as variáveis
+# Variáveis
 numero1 = 12
 
 numero2 = 14
 
-# Realizando a soma
+# Soma
+
 resultado = numero1 + numero2
 
 # Resultado
